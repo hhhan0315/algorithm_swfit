@@ -7,3 +7,4 @@ swift 알고리즘 공부
   - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) / [코드](https://gist.github.com/hhhan0315/69d5d22cf182a70c2e875bec034e6b1c)
   - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) / [코드](https://gist.github.com/hhhan0315/4896c4e1366ab54b93fafb147e8e09d7)
   - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) / [코드](https://gist.github.com/hhhan0315/a0a5145e72a89f338c40f86b50e91454)
+  - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / [코드](https://gist.github.com/hhhan0315/bcef3813392a406d35bf1e335d9eb994)
