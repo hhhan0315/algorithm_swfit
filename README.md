@@ -10,3 +10,4 @@ swift 알고리즘 공부
   - [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) / [코드](https://gist.github.com/hhhan0315/bcef3813392a406d35bf1e335d9eb994)
   - [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) / [코드](https://gist.github.com/hhhan0315/9e0fdccfd22c57d0943953205d5cb9c0)
   - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) / [코드](https://gist.github.com/hhhan0315/54e41f8d1ec6ba654f0b10759a124dc3)
+  - [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) / [코드](https://gist.github.com/hhhan0315/7b6d23c46cc7f9ab5e733e89e4a4c8c7)
