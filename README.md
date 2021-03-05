@@ -26,3 +26,4 @@ swift 알고리즘 공부
   - [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) / [코드](https://gist.github.com/hhhan0315/9d88c05bbdca0f11c6a1355c4d369acb)
   - [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) / [코드](https://gist.github.com/hhhan0315/ac8b7a9144ebd52cfe2393c54a706edd)
   - [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) / [코드](https://gist.github.com/hhhan0315/df75bcbd8759f942985013d4171ac206)
+  - [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) / [코드](https://gist.github.com/hhhan0315/54d236a023636295d2b8a424d9b8ea4a)
