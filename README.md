@@ -23,5 +23,6 @@ swift 알고리즘 공부
   - [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) / [코드](https://gist.github.com/hhhan0315/0d0c70a1f84c6ab079b7568b429333e4)
   - [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) / [코드](https://gist.github.com/hhhan0315/0371f1b7c0b8a56681be3274f7cbbb7e)
   - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) / [코드](https://gist.github.com/hhhan0315/fd93f61db8c76ba2c7f4184c125a2375)
-  - [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928#) / [코드](https://gist.github.com/hhhan0315/9d88c05bbdca0f11c6a1355c4d369acb)
-  - [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930#) / [코드](https://gist.github.com/hhhan0315/ac8b7a9144ebd52cfe2393c54a706edd)
+  - [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) / [코드](https://gist.github.com/hhhan0315/9d88c05bbdca0f11c6a1355c4d369acb)
+  - [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) / [코드](https://gist.github.com/hhhan0315/ac8b7a9144ebd52cfe2393c54a706edd)
+  - [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) / [코드](https://gist.github.com/hhhan0315/df75bcbd8759f942985013d4171ac206)
