@@ -33,3 +33,4 @@ swift 알고리즘 공부
 |[자연수 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[코드](https://gist.github.com/hhhan0315/8ffdc3c6ac0f0251b03c7394230852a8)|
 |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[코드](https://gist.github.com/hhhan0315/48714b53ef51268b52db3aabc7790869)|
 |[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[코드](https://gist.github.com/hhhan0315/b34f38264d12557df7c19a8d48488097)|
+|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[코드](https://gist.github.com/hhhan0315/f543de38bd11315e4dbff50a90637c8b)|
