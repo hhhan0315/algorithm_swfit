@@ -35,3 +35,4 @@ swift 알고리즘 공부
 |제목|풀이 코드|제목|풀이 코드|
 |--|--|--|--|
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://gist.github.com/hhhan0315/536aa4688883196b02397a3ef36dcbd7)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[코드](https://gist.github.com/hhhan0315/e1844d66c5067905a98f5819f8d9fff5)|
+|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[코드](https://gist.github.com/hhhan0315/cd092325c67509ecfd933761dc9031be)|||
