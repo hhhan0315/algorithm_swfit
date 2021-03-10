@@ -26,7 +26,7 @@ swift 알고리즘 공부
 |[행렬의 덧셈](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[코드](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[코드](https://gist.github.com/hhhan0315/1d57c193821d07e6c35e952b955e127b)|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](https://gist.github.com/hhhan0315/79ef07ea9acd0496966e1c49485ef3cd)|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[코드](https://gist.github.com/hhhan0315/efa73a44a84d1e973264dc82e80468e3)|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드](https://gist.github.com/hhhan0315/4d09e2a54d3d9ede1b3257ee500d337d)|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](https://gist.github.com/hhhan0315/24c030231e099333e124c80ecdedeedd)|
-|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889#)|[코드](https://gist.github.com/hhhan0315/4c3eb503622223d06cc37a40b12b17e5)|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](https://gist.github.com/hhhan0315/c55cbc95696c2f41de4780f1cc77488e)|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](https://gist.github.com/hhhan0315/4c3eb503622223d06cc37a40b12b17e5)|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](https://gist.github.com/hhhan0315/c55cbc95696c2f41de4780f1cc77488e)|
 
 ---
 
@@ -37,3 +37,4 @@ swift 알고리즘 공부
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[코드](https://gist.github.com/hhhan0315/536aa4688883196b02397a3ef36dcbd7)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[코드](https://gist.github.com/hhhan0315/e1844d66c5067905a98f5819f8d9fff5)|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[코드](https://gist.github.com/hhhan0315/cd092325c67509ecfd933761dc9031be)|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[코드](https://gist.github.com/hhhan0315/df0cd4f08ebecac2155eb7447a2c178f)|
 |[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[코드](https://gist.github.com/hhhan0315/1f2760d229fe5f35f11b8730f0332e5e)|[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|[코드](https://gist.github.com/hhhan0315/5440d9084b07ac563ed19900d14f41b0)|
+|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057#)|[코드](https://gist.github.com/hhhan0315/9b0b1bf040cbb9c414c8ec2bcc2efc0b)|||
