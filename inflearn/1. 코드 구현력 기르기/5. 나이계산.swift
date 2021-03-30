@@ -7,6 +7,7 @@ func solution(_ str: String) -> String {
     let genderFirst = num[1].first!
     var age = 0
     var gender = ""
+    var result = ""
     
     switch genderFirst {
     case "1":
@@ -27,7 +28,7 @@ func solution(_ str: String) -> String {
     
     age += Int(ageFirst)!
     age = 2019 - age + 1
-    print(age, gender)
+    result = "\(age) \(gender)"
     
-    return ""
+    return result
 }
