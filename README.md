@@ -66,3 +66,8 @@ swift 알고리즘 공부
 |[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[코드](https://gist.github.com/hhhan0315/3a2958fa5156e332df0181fd3916550f)|[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)|[코드](https://gist.github.com/hhhan0315/73ce5b81a4a3f94952c0fa9014e5f049)|
 |[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[코드](https://gist.github.com/hhhan0315/ed1517cfdf6ca9404a4f628207e51ebf)|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[코드](https://gist.github.com/hhhan0315/5962010bc2a4174a26c78b29fb71862c)|
 |[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861#)|[코드](https://gist.github.com/hhhan0315/7fe0973ce8818712370a9d98ccff0d15)|||
+
+---
+
+# it 취업을 위한 알고리즘 문제풀이 (with C/C++)
+> 인프런 강의 [주소](https://www.inflearn.com/course/알고리즘) 스위프트로 풀어보기
