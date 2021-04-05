@@ -56,6 +56,7 @@ swift 알고리즘 공부
 |[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[코드](https://gist.github.com/hhhan0315/e12167c2beadd1048148b9c00a31566b)|[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[코드](https://gist.github.com/hhhan0315/247d5c5391de467eff3d806fcdd77a48)|
 |[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679#)|[코드](https://gist.github.com/hhhan0315/2523f1ae638bbfef8f8d06569cdbdf31)|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[코드](https://gist.github.com/hhhan0315/48e31def22015cc4cb7c8d3d9e431149)|
 |[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686#)|[코드](https://gist.github.com/hhhan0315/36c0deb891daf68e5b481d8913c7273d)|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[코드](https://gist.github.com/hhhan0315/d5839308b4ffc8577dca9b845059f05b)|
+|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[코드](https://gist.github.com/hhhan0315/cfc7096425f65888e84b1a11e58bec60)|||
 
 ---
 
