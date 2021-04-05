@@ -71,5 +71,3 @@ swift 알고리즘 공부
 
 ---
 
-# it 취업을 위한 알고리즘 문제풀이 (with C/C++)
-> 인프런 강의 [주소](https://www.inflearn.com/course/알고리즘) 스위프트로 풀어보기
