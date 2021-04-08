@@ -68,7 +68,7 @@ swift 알고리즘 공부
 |[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[코드](https://gist.github.com/hhhan0315/3a2958fa5156e332df0181fd3916550f)|[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164#)|[코드](https://gist.github.com/hhhan0315/73ce5b81a4a3f94952c0fa9014e5f049)|
 |[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[코드](https://gist.github.com/hhhan0315/ed1517cfdf6ca9404a4f628207e51ebf)|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[코드](https://gist.github.com/hhhan0315/5962010bc2a4174a26c78b29fb71862c)|
 |[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861#)|[코드](https://gist.github.com/hhhan0315/7fe0973ce8818712370a9d98ccff0d15)|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|[코드](https://gist.github.com/hhhan0315/004fc11fbb5302a83ffaf5ecf56b34b1)|
-|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914#)|[코드](https://gist.github.com/hhhan0315/9260869923c5b03201dfb800798d7501)|||
+|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914#)|[코드](https://gist.github.com/hhhan0315/9260869923c5b03201dfb800798d7501)|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[코드](https://gist.github.com/hhhan0315/5260ba22afdd101a7f6fbed7b43f7ba0)|
 
 ---
 
