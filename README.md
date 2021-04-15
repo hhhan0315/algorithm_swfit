@@ -71,7 +71,7 @@ swift 알고리즘 공부
 |[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914#)|[코드](https://gist.github.com/hhhan0315/9260869923c5b03201dfb800798d7501)|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[코드](https://gist.github.com/hhhan0315/5260ba22afdd101a7f6fbed7b43f7ba0)|
 |[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[코드](https://gist.github.com/hhhan0315/f9e3c9f2440456615c82e162ac37f552)|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[코드](https://gist.github.com/hhhan0315/b5da87486207544264627f495cd37f7c)|
 |[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[코드](https://gist.github.com/hhhan0315/11c32c6fa91f4a1f08629b7e11519361)|[하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[코드](https://gist.github.com/hhhan0315/117c3ea7299127c0b8c25fa3d1ba31f3)|
-|[숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)|[코드](https://gist.github.com/hhhan0315/72835affb4966e75f9d0706baa3c97c3)|||
+|[숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)|[코드](https://gist.github.com/hhhan0315/72835affb4966e75f9d0706baa3c97c3)|[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979)|[코드](https://gist.github.com/hhhan0315/b1bb5bd8779cb89f9cdac0541572fc11)|
 
 ---
 
