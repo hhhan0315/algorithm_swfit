@@ -24,11 +24,14 @@ swift 알고리즘 공부
 |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[코드](https://gist.github.com/hhhan0315/a106ea22e5ce7fe4eb6c8625af30e0db)|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[코드](https://gist.github.com/hhhan0315/97c397acbd33fb0f01ea0f50abdd56d3)|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[코드](https://gist.github.com/hhhan0315/d06c4eed253b892e563fed403650d670)|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[코드](https://gist.github.com/hhhan0315/53a0ee2c3f49d81e8644666369c691be)|
 |[행렬의 덧셈](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[코드](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[코드](https://gist.github.com/hhhan0315/1d57c193821d07e6c35e952b955e127b)|
-|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](https://gist.github.com/hhhan0315/79ef07ea9acd0496966e1c49485ef3cd)|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[코드](https://gist.github.com/hhhan0315/efa73a44a84d1e973264dc82e80468e3)|
+|||[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[코드](https://gist.github.com/hhhan0315/efa73a44a84d1e973264dc82e80468e3)|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드](https://gist.github.com/hhhan0315/4d09e2a54d3d9ede1b3257ee500d337d)|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](https://gist.github.com/hhhan0315/24c030231e099333e124c80ecdedeedd)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](https://gist.github.com/hhhan0315/4c3eb503622223d06cc37a40b12b17e5)|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](https://gist.github.com/hhhan0315/c55cbc95696c2f41de4780f1cc77488e)|
 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[코드](https://gist.github.com/hhhan0315/32e653879df4fd2d677959bf24d60085)|||
 
+|제목|풀이 코드|제목|풀이 코드|
+|--|--|--|--|
+|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](https://gist.github.com/hhhan0315/79ef07ea9acd0496966e1c49485ef3cd)||
 ---
 
 > Level 2
