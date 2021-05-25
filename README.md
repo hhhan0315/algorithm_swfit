@@ -32,7 +32,8 @@ swift 알고리즘 공부
 |제목|풀이 코드|제목|풀이 코드|
 |--|--|--|--|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](https://gist.github.com/hhhan0315/79ef07ea9acd0496966e1c49485ef3cd)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[코드](https://gist.github.com/hhhan0315/f543de38bd11315e4dbff50a90637c8b)
-|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[코드](https://gist.github.com/hhhan0315/701a49d306fb09c889b8799ab2f55942)|
+|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[코드](https://gist.github.com/hhhan0315/701a49d306fb09c889b8799ab2f55942)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[코드](https://gist.github.com/hhhan0315/913f4443f34db2696b49f28aaf2a4f1f)|
+
 ---
 
 > Level 2
