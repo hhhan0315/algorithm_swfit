@@ -7,7 +7,7 @@ swift 알고리즘 공부
 |제목|풀이 코드|제목|풀이 코드|
 |--|--|--|--|
 |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[코드](https://gist.github.com/hhhan0315/69d5d22cf182a70c2e875bec034e6b1c)|
-|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[코드](https://gist.github.com/hhhan0315/54e41f8d1ec6ba654f0b10759a124dc3)|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[코드](https://gist.github.com/hhhan0315/7b6d23c46cc7f9ab5e733e89e4a4c8c7)|
+|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[코드](https://gist.github.com/hhhan0315/54e41f8d1ec6ba654f0b10759a124dc3)|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[코드](https://gist.github.com/hhhan0315/8767fa08b0b0c361a904ac72424294db)|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[코드](https://gist.github.com/hhhan0315/1127ba462d43fd4ff168a3ff4b8aa96c)|
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[코드](https://gist.github.com/hhhan0315/86948fb44a22a1a2c02a5a7433147ab0)|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[코드](https://gist.github.com/hhhan0315/882fff56c0ba0308712730fdf631646c)|
 |[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[코드](https://gist.github.com/hhhan0315/d33e7cfd6655d5bba4da13f8256655f4)|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[코드](https://gist.github.com/hhhan0315/40a4eb488703956a384f7bd749dd3ac6)|
@@ -23,8 +23,8 @@ swift 알고리즘 공부
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[코드](https://gist.github.com/hhhan0315/d06c4eed253b892e563fed403650d670)|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[코드](https://gist.github.com/hhhan0315/53a0ee2c3f49d81e8644666369c691be)|
 |[행렬의 덧셈](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[코드](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[코드](https://gist.github.com/hhhan0315/1d57c193821d07e6c35e952b955e127b)|
 |||[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[코드](https://gist.github.com/hhhan0315/efa73a44a84d1e973264dc82e80468e3)|
-|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드](https://gist.github.com/hhhan0315/4d09e2a54d3d9ede1b3257ee500d337d)|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](https://gist.github.com/hhhan0315/24c030231e099333e124c80ecdedeedd)|
-|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](https://gist.github.com/hhhan0315/4c3eb503622223d06cc37a40b12b17e5)|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](https://gist.github.com/hhhan0315/c55cbc95696c2f41de4780f1cc77488e)|
+|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](https://gist.github.com/hhhan0315/24c030231e099333e124c80ecdedeedd)|
+|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](https://gist.github.com/hhhan0315/c55cbc95696c2f41de4780f1cc77488e)|
 
 |제목|풀이 코드|제목|풀이 코드|
 |--|--|--|--|
@@ -33,6 +33,8 @@ swift 알고리즘 공부
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[코드](https://gist.github.com/hhhan0315/bcef3813392a406d35bf1e335d9eb994)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드](https://gist.github.com/hhhan0315/9e0fdccfd22c57d0943953205d5cb9c0)|
 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[코드](https://gist.github.com/hhhan0315/32e653879df4fd2d677959bf24d60085)|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[코드](https://gist.github.com/hhhan0315/a0a5145e72a89f338c40f86b50e91454)|
 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[코드](https://gist.github.com/hhhan0315/fd93f61db8c76ba2c7f4184c125a2375)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[코드](https://gist.github.com/hhhan0315/4896c4e1366ab54b93fafb147e8e09d7)|
+|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드](https://gist.github.com/hhhan0315/4d09e2a54d3d9ede1b3257ee500d337d)|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[코드](https://gist.github.com/hhhan0315/7b6d23c46cc7f9ab5e733e89e4a4c8c7)|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](https://gist.github.com/hhhan0315/4c3eb503622223d06cc37a40b12b17e5)|
 
 
 ---
