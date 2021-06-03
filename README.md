@@ -6,10 +6,6 @@ swift 알고리즘 공부
 
 |제목|풀이 코드|제목|풀이 코드|
 |--|--|--|--|
-|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |[코드](https://gist.github.com/hhhan0315/54d236a023636295d2b8a424d9b8ea4a)|
-|[자연수 내림차순으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[코드](https://gist.github.com/hhhan0315/8ffdc3c6ac0f0251b03c7394230852a8)|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[코드](https://gist.github.com/hhhan0315/48714b53ef51268b52db3aabc7790869)|
-|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[코드](https://gist.github.com/hhhan0315/b34f38264d12557df7c19a8d48488097)||
-|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[코드](https://gist.github.com/hhhan0315/42cc14c6ad4699e5c8164024cad35146)|
 |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[코드](https://gist.github.com/hhhan0315/a106ea22e5ce7fe4eb6c8625af30e0db)|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[코드](https://gist.github.com/hhhan0315/97c397acbd33fb0f01ea0f50abdd56d3)|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[코드](https://gist.github.com/hhhan0315/d06c4eed253b892e563fed403650d670)|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[코드](https://gist.github.com/hhhan0315/53a0ee2c3f49d81e8644666369c691be)|
 |[행렬의 덧셈](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[코드](https://gist.github.com/hhhan0315/095e3a9dda67368ab0bf94caf6781f41)|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[코드](https://gist.github.com/hhhan0315/1d57c193821d07e6c35e952b955e127b)|
@@ -33,7 +29,10 @@ swift 알고리즘 공부
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[코드](https://gist.github.com/hhhan0315/0b6b13f3f36ddf84ade1903891fe9c45)|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)| [코드](https://gist.github.com/hhhan0315/0d0c70a1f84c6ab079b7568b429333e4)|
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[코드](https://gist.github.com/hhhan0315/0371f1b7c0b8a56681be3274f7cbbb7e)|[시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[코드](https://gist.github.com/hhhan0315/500e4e5acef9820fb31b744fc5d31217)|
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[코드](https://gist.github.com/hhhan0315/9d88c05bbdca0f11c6a1355c4d369acb)|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[코드](https://gist.github.com/hhhan0315/ac8b7a9144ebd52cfe2393c54a706edd)|
-|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[코드](https://gist.github.com/hhhan0315/df75bcbd8759f942985013d4171ac206)|
+|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[코드](https://gist.github.com/hhhan0315/df75bcbd8759f942985013d4171ac206)|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) |[코드](https://gist.github.com/hhhan0315/54d236a023636295d2b8a424d9b8ea4a)|
+|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[코드](https://gist.github.com/hhhan0315/8ffdc3c6ac0f0251b03c7394230852a8)|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[코드](https://gist.github.com/hhhan0315/48714b53ef51268b52db3aabc7790869)|
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[코드](https://gist.github.com/hhhan0315/b34f38264d12557df7c19a8d48488097)|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[코드](https://gist.github.com/hhhan0315/1fdea983b77c0a003dacc84b4f1980c1)|
+|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[코드](https://gist.github.com/hhhan0315/42cc14c6ad4699e5c8164024cad35146)|
 
 ---
 
