@@ -40,6 +40,7 @@ swift 알고리즘 공부
 |[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[코드](https://gist.github.com/hhhan0315/df0cd4f08ebecac2155eb7447a2c178f)|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[코드](https://gist.github.com/hhhan0315/48e31def22015cc4cb7c8d3d9e431149)|
 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057#)|[코드](https://gist.github.com/hhhan0315/9b0b1bf040cbb9c414c8ec2bcc2efc0b)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[코드](https://gist.github.com/hhhan0315/01eda173314db3f9643ea538560bb71d)|
 |[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985#)|[코드](https://gist.github.com/hhhan0315/03e092acb5540c0ef9349675bfea34ee)|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[코드](https://gist.github.com/hhhan0315/f999363d0416eafca57e83a9e5a4e4d1)|
+[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[코드](https://gist.github.com/hhhan0315/fb209ffac71aabcb98bd7d5d54b15138)
 
 
 |제목|풀이 코드|제목|풀이 코드|
