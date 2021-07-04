@@ -3,7 +3,7 @@ swift 알고리즘 공부
 
 # programmers
 > Level 1
-
+> 
 [프로그래머스 레벨1](https://github.com/hhhan0315/algorithm_swfit/blob/main/프로그래머스_레벨1.md)
 
 ---
@@ -20,3 +20,11 @@ swift 알고리즘 공부
 
 ---
 
+# baekjoon
+> 알고리즘 기초 1/2
+
+[백준 링크](https://code.plus/course/41)
+
+[풀이 링크](https://github.com/hhhan0315/algorithm_swfit/blob/main/알고리즘_기초_1.md)
+
+---
