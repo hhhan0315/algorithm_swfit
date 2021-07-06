@@ -25,6 +25,6 @@ swift 알고리즘 공부
 
 [백준 링크](https://code.plus/course/41)
 
-[풀이 링크](https://github.com/hhhan0315/algorithm_swfit/blob/main/알고리즘_기초_1.md)
+[풀이 링크](https://github.com/hhhan0315/algorithm_swfit/tree/main/알고리즘_기초_1)
 
 ---
